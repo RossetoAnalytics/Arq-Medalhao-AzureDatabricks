@@ -5,11 +5,16 @@ Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usa
 <details>
   <summary>Requisitos</summary>
   
-- Configuração de Self-Hosted Runtime
+- Configuração de Self-Hosted Runtime para conexão entre Azure Data Factory e SQL Server
 - Configuração de Java Runtime para rodar arquivos .parquet
-- Configuração de acesso entre recursos
-- Configuração de permissões
-  
+- Configuração de Managed Identity (MI) entre o Databricks, Data Factory e ADLS2 
+- Autenticação via Azure Active Directory (AAD)
+- Configuração do Networking, incluindo a abertura de portas específicas no firewall para acesso entre Azure e SQL Server.
+- Controle de ACLs (Access Control Lists) e RBAC (Role-Based Access Control).
+- Integração com o Key Vault: Garantir que o Databricks e o Data Factory estão corretamente configurados para acessar segredos armazenados no Key Vault. Isso envolve:
+    Criação de políticas de acesso no Key Vault.
+    Uso de linked services no Data Factory para acessar o Key Vault.
+
 </details>
 
 
