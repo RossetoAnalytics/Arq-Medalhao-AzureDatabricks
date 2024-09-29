@@ -19,8 +19,10 @@ Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usa
   ![resourcegroup](https://github.com/user-attachments/assets/00bc9775-accc-49cf-b0c3-7677963e2608)
 
 </details>
+
+<details>
   <summary>Pipeline Data Factory</summary>
 
-<details>![Pipeline ADF](https://github.com/user-attachments/assets/d92b56df-7554-490c-b2ec-54ee01ec7d67)
+![Pipeline ADF](https://github.com/user-attachments/assets/d92b56df-7554-490c-b2ec-54ee01ec7d67)
 
 </details>
