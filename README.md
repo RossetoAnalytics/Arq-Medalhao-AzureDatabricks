@@ -3,7 +3,7 @@
 Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usando Azure e Databricks. Este projeto faz uso de vários recursos da Azure, como o gerenciamento de permissões, storage em ADLS2, conectores, Data Factory, conteúdos dinâmicos e o Key Vault para guardar segredos.
 
 <details>
-  <summary>Requisitos:</summary>
+  <summary>Requisitos</summary>
   
 - Configuração de Self-Hosted Runtime
 - Configuração de Java Runtime para rodar arquivos .parquet
@@ -24,5 +24,12 @@ Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usa
   <summary>Pipeline Data Factory</summary>
 
 ![Pipeline ADF](https://github.com/user-attachments/assets/d92b56df-7554-490c-b2ec-54ee01ec7d67)
+
+</details>
+
+<details>
+  <summary>Data Source</summary>
+
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
 </details>
