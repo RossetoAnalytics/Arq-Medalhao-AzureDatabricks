@@ -12,6 +12,7 @@ Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usa
 - Configuração do Networking, incluindo a abertura de portas específicas no firewall para acesso entre Azure e SQL Server.
 - Controle de ACLs (Access Control Lists) e RBAC (Role-Based Access Control).
 - Integração com o Key Vault: Garantir que o Databricks e o Data Factory estão corretamente configurados para acessar segredos armazenados no Key Vault. Isso envolve: Criação de políticas de acesso no Key Vault e uso de linked services no Data Factory para acessar o Key Vault.
+- Configuração de mount Azure Data Lake Storage Gen2 container no Databricks usando autenticação via token. (notebook uploaded)
 
 </details>
 
