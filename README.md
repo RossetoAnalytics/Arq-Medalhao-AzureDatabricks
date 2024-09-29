@@ -18,9 +18,10 @@ Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usa
 
 
 <details>
-  <summary>Recursos</summary>
+  <summary>Grupo de Recursos</summary>
 
-  ![resourcegroup](https://github.com/user-attachments/assets/00bc9775-accc-49cf-b0c3-7677963e2608)
+ ![image](https://github.com/user-attachments/assets/6176cc7a-e5a3-4644-aa26-1fd87a8e7327)
+
 
 </details>
 
