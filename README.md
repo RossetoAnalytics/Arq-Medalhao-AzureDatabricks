@@ -42,5 +42,6 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 </details>
 
-![image](https://github.com/user-attachments/assets/711fa6c8-4c8a-4eec-bb1f-c4f13e556c79)
+![371883148-711fa6c8-4c8a-4eec-bb1f-c4f13e556c79](https://github.com/user-attachments/assets/5cfff45a-a71a-4c07-b1bd-6b8c07567424)
+
 
