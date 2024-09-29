@@ -28,7 +28,8 @@ Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usa
 <details>
   <summary>Pipeline Data Factory</summary>
 
-![Pipeline ADF](https://github.com/user-attachments/assets/d92b56df-7554-490c-b2ec-54ee01ec7d67)
+![image](https://github.com/user-attachments/assets/2d175355-854f-4fff-bf53-f732df7e3cff)
+
 
 Notas: Ingestão dinâmica conectada ao SQL server seguido de transformações em camadas usando PySpark no Databricks
 
