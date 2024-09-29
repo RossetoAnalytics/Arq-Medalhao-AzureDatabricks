@@ -1,6 +1,6 @@
 # Arq-Medalhao-AzureDatabricks
 
-Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usando Azure e Databricks. Este projeto faz uso de vários recursos da Azure, como o gerenciamento de permissões, storage em ADLS2, conectores, Data Factory, conteúdos dinâmicos e o Key Vault para guardar segredos.
+Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usando Azure e Databricks. Este projeto faz uso de vários recursos da Azure, como o gerenciamento de permissões, storage em ADLS2, conectores, Data Factory, conteúdos dinâmicos para Queries automáticasa e o Key Vault para guardar segredos.
 
 <details>
   <summary>Requisitos</summary>
