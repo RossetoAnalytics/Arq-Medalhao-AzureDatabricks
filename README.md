@@ -2,9 +2,6 @@
 
 Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usando Azure e Databricks com a configuração real de um ambiente de produção. Este projeto faz uso de vários recursos da Azure, como o gerenciamento de permissões, Azure Data Lake Storage Gen2 (ADLS2), Azure Active Directory (AAD), conectores, Data Factory, Azure Synapse Analytics, conteúdos dinâmicos para Queries automáticas e o Key Vault para guardar segredos. Além de PySpark e SQL.
 
-![image](https://github.com/user-attachments/assets/711fa6c8-4c8a-4eec-bb1f-c4f13e556c79)
-
-
 <details>
   <summary>Requisitos</summary>
   
@@ -43,3 +40,6 @@ Notas: Ingestão dinâmica conectada ao SQL server seguido de transformações e
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
 </details>
+
+![image](https://github.com/user-attachments/assets/711fa6c8-4c8a-4eec-bb1f-c4f13e556c79)
+
