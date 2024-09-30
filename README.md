@@ -1,6 +1,6 @@
-# Arq-Medalhao-AzureDatabricks
+# PySpark Medalhão: Azure ETL Pipeline
 
-Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usando Azure e Databricks em uma configuração de um ambiente de produção. Este projeto faz uso de vários recursos da Azure, como o gerenciamento de permissões, Azure Data Lake Storage Gen2 (ADLS2), Azure Active Directory (AAD), conectores, Data Factory, Azure Synapse Analytics, conteúdos dinâmicos para queries automáticas e dinâmicas, Key Vault para guardar segredos. Além de PySpark e SQL.
+Projeto desenvolvido criando um ETL a partir de um host local do SQL Server, usando Azure e Databricks em uma configuração de um ambiente de produção. Este projeto faz uso de vários recursos da Azure, como o gerenciamento de permissões, Azure Data Lake Storage Gen2 (ADLS2), Azure Active Directory (AAD), conectores, Data Factory, Azure Synapse Analytics, conteúdos dinâmicos para queries automáticas e dinâmicas, Key Vault para guardar segredos. Além de PySpark e SQL, o workspace do Databricks foi utilizado para criar transformações de dados em uma arquitetura medalhão, aproveitando as capacidades do PySpark para processamento e transformação em escala.
 
 <details>
   <summary>Requisitos</summary>
